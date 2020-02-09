@@ -2,10 +2,10 @@ License Information - EULA
 
 Copyright (c) 2020 Jungle EXPO
 
-This program is not made by Nintendo. To use this program, you need to enter the product key you recieved.
-If the product key is skipped, you will not be able to make courses and will require manual course making.
+This program is not made by Nintendo.
 It is not allowed to copy work from other people.
-Do not steal files or programs and distribute it.
+Do not steal files or programs and claim them. If you find this program for sale online,
+please report the seller and the product being sold.
 
 
 
@@ -27,7 +27,7 @@ Q: Is there a timer in courses?
 A: That depends on the course you are playing. If it has a time limit, it might be using external commands.
 
 Q: Why can't the Course Player open the level I am trying to play?
-A: Check to see if there is a level file in the folder. If not, use a different level. Also, try typing the name again.
+A: Check to see if there is a level.bat file in the folder. If not, make sure the downloaded course has the level.bat file in the course folder. If the file is there, try typing the name again. If the problem persists, redownload Course Player, and try again.
 
 Q: Can I make my own course?
 A: Yes you can. Anybody can. As long as you name the file 'level.bat' and you put the level name as the folder name.
